@@ -30,12 +30,12 @@
         },
         "CHANNEL_URL": {
             "description": "Your channel link for bot promotion (e.g., https://t.me/yourchannel)",
-            "value": "https://t.me/ShrutiBots",
+            "value": "https://t.me/TEAM_CHOR",
             "required": false
         },
         "SUPPORT_GROUP_URL": {
             "description": "Your support group link (e.g., https://t.me/yoursupportgroup)",
-            "value": "https://t.me/ShrutiBotSupport",
+            "value": "https://t.me/ll_botchat_ll",
             "required": false
         }
     },
